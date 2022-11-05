@@ -1,0 +1,16 @@
+.form_data{
+
+    height: 200px;
+    width:300px;
+    background-color: rgb(230,223,211);
+    box-shadow: 0 3px 10px rgb (0,0,0/0.2);
+    padding:10px;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#turnoff{
+    display: none;
+    
+}
